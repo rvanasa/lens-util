@@ -1,0 +1,4 @@
+
+test(a) = 5 / a
+
+export test
